@@ -16,7 +16,7 @@ public class ProductCrudOperationUsingSpringJpaApplication {
 
 	public static void main(String[] args) {
 	SpringApplication.run(ProductCrudOperationUsingSpringJpaApplication.class, args);
-	
+	System.out.println("HELLO.....");
 	}
 
 }
